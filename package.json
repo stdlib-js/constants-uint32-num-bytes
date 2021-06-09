@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-uint32-num-bytes",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Size (in bytes) of a 32-bit unsigned integer.",
   "license": "Apache-2.0",
   "author": {
