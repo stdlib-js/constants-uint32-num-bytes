@@ -20,7 +20,7 @@ limitations under the License.
 
 # Number of Bytes
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Size (in bytes) of a 32-bit unsigned integer.
 
@@ -82,9 +82,9 @@ console.log( UINT32_NUM_BYTES );
 
 ## See Also
 
--   [`@stdlib/constants/int32/num-bytes`][@stdlib/constants/int32/num-bytes]: size (in bytes) of a 32-bit signed integer.
--   [`@stdlib/constants/uint16/num-bytes`][@stdlib/constants/uint16/num-bytes]: size (in bytes) of a 16-bit unsigned integer.
--   [`@stdlib/constants/uint8/num-bytes`][@stdlib/constants/uint8/num-bytes]: size (in bytes) of an 8-bit unsigned integer.
+-   <span class="package-name">[`@stdlib/constants/int32/num-bytes`][@stdlib/constants/int32/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 32-bit signed integer.</span>
+-   <span class="package-name">[`@stdlib/constants/uint16/num-bytes`][@stdlib/constants/uint16/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 16-bit unsigned integer.</span>
+-   <span class="package-name">[`@stdlib/constants/uint8/num-bytes`][@stdlib/constants/uint8/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of an 8-bit unsigned integer.</span>
 
 </section>
 
@@ -135,8 +135,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-uint32-num-bytes/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-uint32-num-bytes?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-uint32-num-bytes.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-uint32-num-bytes/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
