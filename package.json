@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/constants-uint32-num-bytes",
+  "version": "0.0.0",
+  "description": "Size (in bytes) of a 32-bit unsigned integer.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-uint32-num-bytes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "uint32",
+    "32-bit",
+    "32bit",
+    "integer",
+    "int",
+    "long",
+    "unsigned",
+    "size",
+    "sizeof",
+    "size-of",
+    "bytes",
+    "nbytes",
+    "bits"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
