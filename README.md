@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import UINT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-num-bytes@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-uint32-num-bytes/tags). For example,
+
+```javascript
 import UINT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-num-bytes@v0.2.2-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ var bool = ( UINT32_NUM_BYTES === 4 );
 <body>
 <script type="module">
 
-import UINT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-num-bytes@v0.2.2-esm/index.mjs';
+import UINT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-num-bytes@esm/index.mjs';
 
 console.log( UINT32_NUM_BYTES );
 // => 4
